@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-19)
+
+<section class="features">
+
+### Features
+
+-   [`7a87244`](https://github.com/stdlib-js/stdlib/commit/7a872442e344e03a69d987f0f7b89d1344d5547c) - add C implementation for `stats/base/dists/chisquare/entropy` [(#4007)](https://github.com/stdlib-js/stdlib/pull/4007)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3501](https://github.com/stdlib-js/stdlib/issues/3501)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`7a87244`](https://github.com/stdlib-js/stdlib/commit/7a872442e344e03a69d987f0f7b89d1344d5547c) - **feat:** add C implementation for `stats/base/dists/chisquare/entropy` [(#4007)](https://github.com/stdlib-js/stdlib/pull/4007) _(by Vivek maurya, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Vivek maurya
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
