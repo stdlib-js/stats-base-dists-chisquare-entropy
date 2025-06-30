@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`7e24b8b`](https://github.com/stdlib-js/stdlib/commit/7e24b8ba0fff87a56584bb1a2fa106eb88267596) - **test:** slightly increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`ce62b14`](https://github.com/stdlib-js/stdlib/commit/ce62b1490d4948a707f496b66ad03bb296a2468a) - **docs:** replace manual `for` loop in examples [(#7055)](https://github.com/stdlib-js/stdlib/pull/7055) _(by Harsh)_
 -   [`367fdcd`](https://github.com/stdlib-js/stdlib/commit/367fdcd966fd9b6c883997b6f0deebbe84a63cbd) - **bench:** update random value generation [(#7026)](https://github.com/stdlib-js/stdlib/pull/7026) _(by Harsh)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
