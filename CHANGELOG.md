@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-21)
+## Unreleased (2026-10-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`a7915b9`](https://github.com/stdlib-js/stdlib/commit/a7915b990d5089df8dc941e80ab0614df4e539fa) - **test:** migrate `stats/base/dists/chisquare/entropy` to ULP-based assertions [(#15936)](https://github.com/stdlib-js/stdlib/pull/15936) _(by Philipp Burckhardt)_
 -   [`c660c8e`](https://github.com/stdlib-js/stdlib/commit/c660c8e75f15ee3a716d6b69faf35f710a4ae4d6) - **chore:** fix example positioning and align keywords in `stats/base/dists/chisquare` packages [(#11746)](https://github.com/stdlib-js/stdlib/pull/11746) _(by Philipp Burckhardt)_
 -   [`12c2cee`](https://github.com/stdlib-js/stdlib/commit/12c2cee21de81594436e583fc379339cf5ac89c1) - **bench:** refactor to use string interpolation in `stats/base/dists/chisquare` [(#10325)](https://github.com/stdlib-js/stdlib/pull/10325) _(by Vishal Gaikwad)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
